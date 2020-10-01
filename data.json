@@ -1,0 +1,156 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "firstName": "Clemmy",
+      "lastName": "Soulsby",
+      "email": "csoulsby@reelestate.nl",
+      "phoneNumber": "+7 269 520 0268",
+      "languages": ["English", "Catalan", "Spanish", "French"],
+      "motto": "envisioneer mission-critical interfaces",
+      "imageUrl": "https://azbigmedia.com/wp-content/uploads/2018/11/real-estate-agent.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Helga",
+      "lastName": "Spracklin",
+      "email": "hspracklin@reelestate.nl",
+      "phoneNumber": "+56 413 467 0171",
+      "languages": ["English", "Dutch", "Bislama", "German"],
+      "motto": "deliver next-generation synergy",
+      "imageUrl": "https://homezlog.com/wp-content/uploads/2019/07/realtor.jpg"
+    }
+  ],
+  "listings": [
+    {
+      "id": 1,
+      "referenceNumber": "91-016-2757",
+      "address": {
+        "city": "New Orleans",
+        "street": "Dapin",
+        "number": "56"
+      },
+      "m2": 88,
+      "priceEuro": 886000,
+      "bedRooms": 3,
+      "agentId": 1
+    },
+    {
+      "id": 2,
+      "referenceNumber": "87-958-4717",
+      "address": {
+        "city": "Xitou",
+        "street": "Gulseth",
+        "number": "324"
+      },
+      "m2": 47,
+      "priceEuro": 779000,
+      "bedRooms": 4,
+      "agentId": 2
+    },
+    {
+      "id": 3,
+      "referenceNumber": "44-388-0184",
+      "address": {
+        "city": "Fuhai",
+        "street": "Weeping Birch",
+        "number": "19"
+      },
+      "m2": 103,
+      "priceEuro": 291000,
+      "bedRooms": 2,
+      "agentId": 1
+    },
+    {
+      "id": 4,
+      "referenceNumber": "95-163-6022",
+      "address": {
+        "city": "Xianxi",
+        "street": "Portage",
+        "number": "51841"
+      },
+      "m2": 44,
+      "priceEuro": 313000,
+      "bedRooms": 2,
+      "agentId": 1
+    },
+    {
+      "id": 5,
+      "referenceNumber": "89-528-9644",
+      "address": {
+        "city": "Mangusu",
+        "street": "Riverside",
+        "number": "42"
+      },
+      "m2": 77,
+      "priceEuro": 383000,
+      "bedRooms": 4,
+      "agentId": 1
+    },
+    {
+      "id": 6,
+      "referenceNumber": "92-975-8427",
+      "address": {
+        "city": "Liutao",
+        "street": "Esker",
+        "number": "6878"
+      },
+      "m2": 77,
+      "priceEuro": 189000,
+      "bedRooms": 4,
+      "agentId": 1
+    },
+    {
+      "id": 7,
+      "referenceNumber": "66-173-1511",
+      "address": {
+        "city": "Yeri",
+        "street": "Porter",
+        "number": "2698"
+      },
+      "m2": 101,
+      "priceEuro": 659000,
+      "bedRooms": 3,
+      "agentId": 1
+    },
+    {
+      "id": 8,
+      "referenceNumber": "45-541-3985",
+      "address": {
+        "city": "Sagaing",
+        "street": "Cottonwood",
+        "number": "9355"
+      },
+      "m2": 47,
+      "priceEuro": 350000,
+      "bedRooms": 4,
+      "agentId": 1
+    },
+    {
+      "id": 9,
+      "referenceNumber": "12-086-2602",
+      "address": {
+        "city": "Yuanbao",
+        "street": "Ridgeway",
+        "number": "7797"
+      },
+      "m2": 48,
+      "priceEuro": 161000,
+      "bedRooms": 2,
+      "agentId": 2
+    },
+    {
+      "id": 10,
+      "referenceNumber": "10-525-3618",
+      "address": {
+        "city": "Płoniawy-Bramura",
+        "street": "Goodland",
+        "number": "42847"
+      },
+      "m2": 44,
+      "priceEuro": 606000,
+      "bedRooms": 1,
+      "agentId": 1
+    }
+  ]
+}
