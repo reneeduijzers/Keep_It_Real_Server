@@ -3,7 +3,7 @@ const app = express();
 const jsonParser = express.json();
 const corsMiddleWare = require("cors");
 const data = require("./data.json");
-const port = 4000;
+const port = process.env.PORT || 4000;
 
 app.use(jsonParser);
 app.use(corsMiddleWare());
